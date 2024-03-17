@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on development of web applications<br>👯 I’m looking to collaborate with software company that develop web applications<br>🌱 I’m currently learning  how to implement javascript in websites<br>💬 Ask me about how to create the front end of any websites<br>⚡ Fun fact Juggling code and textbooks while embracing the life of a student developer
+🔭 I’m currently working on development of web applications and android app development <br>👯 I’m looking to collaborate with software company that develop web applications<br>🌱 I’m currently learning  how to implement javascript in websites<br>💬 Ask me about how to create the front end of any websites<br>⚡ Fun fact Juggling code and textbooks while embracing the life of a student developer
 
 
 ## 🌐 Socials:
